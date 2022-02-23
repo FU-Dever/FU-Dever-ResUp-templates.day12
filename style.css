@@ -85,7 +85,6 @@ body{
     transform: translate(-50%, -50%);
     border-radius: 25%;
     overflow: hidden;
-    transition: 0.1s linear;
 }
 
 #second::after{
